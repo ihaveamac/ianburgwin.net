@@ -40,6 +40,8 @@ if(!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == ""){
 		#systems div img {
 			float: left;
 			margin-right: 1em;
+			width: 32px;
+			height: 32px;
 		}
 		.sub {
 			font-size: 11px;
