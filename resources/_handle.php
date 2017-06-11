@@ -50,7 +50,7 @@ if(!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == ""){
 	</head>
 	<body>
 		<ul>
-			<li><a href="?3DS">Nintendo 3DS homebrew</a></li>
+			<li><a href="?3DS">Nintendo 3DS software</a></li>
 			<li><a href="?contact">Methods of contact</a></li>
 			<li><a href="?extras">Extras</a></li>
 			<li><a href="/">Front</a></li>
